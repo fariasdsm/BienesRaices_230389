@@ -1,0 +1,35 @@
+{
+  "name": "mx.utxj.ti.awos.bienesraices",
+  "version": "1.0.0",
+  "description": "Proyecto de clase para la Unidad 2, de AWOS, utilizando Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fariasdsm/BienesRaices_230389.git"
+  },
+  "keywords": [
+    "MVC",
+    "Express",
+    "Sequelize",
+    "MySQL",
+    "TailwindCSS",
+    "Nodemon",
+    "NodeJS",
+    "PUG",
+    "NodeMailer",
+    "Mailtrap",
+    "JWT"
+  ],
+  "author": "Al Farias Leyva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fariasdsm/BienesRaices_230389/issues"
+  },
+  "homepage": "https://github.com/fariasdsm/BienesRaices_230389#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

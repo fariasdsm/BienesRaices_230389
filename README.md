@@ -8,13 +8,14 @@ Para poder demostrar y aprender la creación y consumo de Interfaces de Programa
 
 ## Historial de Prácticas
 
-| No. | Fecha      | Descripción                                             | Potenciador | Estatus  |
-| --- | ---------- | ------------------------------------------------------- | ----------- | -------- |
-| 8.  | 17/10/2024 | Nuevo Repositorio del Proyecto Implementando .gitignore | 1           | Activa⭐ |
+| No. | Fecha      | Descripción                                             | Potenciador | Estatus      |
+| --- | ---------- | ------------------------------------------------------- | ----------- | ------------ |
+| 8.  | 17/10/2024 | Nuevo Repositorio del Proyecto Implementando .gitignore | 1           | Finalizada✅ |
+| 9.  | 17/10/2024 |                                                         |             | Activa ⭐    |
 
 ### Autor
 
-Al Farias Leyva / [@fariasdsm](https://github.com/fariasdsm)
-Unidad 2
-Aplicaciónes Web Orientadas a Servicios
-Octubre 2024
+Al Farias Leyva / [@fariasdsm](https://github.com/fariasdsm)<br>
+Unidad 2<br>
+Aplicaciónes Web Orientadas a Servicios<br>
+Octubre 2024<br>
